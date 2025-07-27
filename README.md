@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer with hands-on experience in building scalable and <br>resilient applications using .NET and GoLang, <br>with strong integration across AWS Cloud infrastructure.
+Software Developer with hands-on experience in building scalable and <br>resilient applications using .NET ,GoLang Python , <br>with strong integration across AWS Cloud infrastructure.
 
 
 ## 🌐 Socials:
